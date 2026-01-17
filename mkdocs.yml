@@ -1,0 +1,56 @@
+site_name: Cristiani LGBT+ Sicilias
+site_description: Comunità di fede inclusiva e accogliente in Sicilia
+
+theme:
+  name: material
+  language: it
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Passa al tema scuro
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Passa al tema chiaro
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.code.copy
+    - content.tooltips
+    - navigation.tabs
+  icon:
+    logo: material/church
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/
+      name: Seguici su Facebook
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/
+      name: Seguici su Instagram
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@cristianilgbtsicilia.org
+      name: Contattaci via email
+
+extra_css:
+  - stylesheets/extra.css
+  - https://fonts.googleapis.com/icon?family=Material+Icons
