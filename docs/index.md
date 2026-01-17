@@ -5,26 +5,24 @@ hide:
 ---
 
 <div class="hero-section">
-  <h1 class="hero-title">
-    <i class="material-icons" style="vertical-align: middle; font-size: inherit;">church</i>
-    Cristiani LGBT+ Sicilia
-  </h1>
-  
-  <p class="hero-subtitle">
-    <strong>Dove mi accogli, io fiorisco</strong><br>
-    Una comunità di fede che celebra la dignità di ogni persona<br>
-    come dono prezioso del Creatore
-  </p>
+  <div class="hero-content">
+    <div class="hero-icon">
+      <i class="material-icons">favorite</i>
+    </div>
+    <h1 class="hero-title">Cristiani LGBT+ Sicilia</h1>
+    
+    <p class="hero-subtitle">
+      Una comunità di fede che cammina insieme<br>
+      <strong>Amati da Dio, così come siamo</strong>
+    </p>
 
-  <p>
-    <a href="#chi-siamo" class="md-button md-button--primary">Chi Siamo</a>
-    <a href="#il-nostro-cammino" class="md-button">Il Nostro Cammino</a>
-    <a href="#testimonianze" class="md-button">Testimonianze</a>
-  </p>
+    <p>
+      <a href="#chi-siamo" class="md-button md-button--primary">Chi siamo</a>
+      <a href="#il-nostro-cammino" class="md-button">Il nostro cammino</a>
+      <a href="#testimonianze" class="md-button">Testimonianze</a>
+    </p>
+  </div>
 </div>
-
-
----
 
 <h2 id="chi-siamo" class="custom-h2"><i class="material-icons">people</i> Chi siamo</h2>
 
@@ -36,53 +34,149 @@ Siamo **cristiane e cristiani LGBT+** che hanno scoperto che è possibile concil
 "Per noi essere LGBT+ non è un modo per aderire a un'ideologia, ma per riconoscere e riconoscersi in un'identità precisa: siamo persone che vivono una complessità sociale, culturale e religiosa, unite dal principio fondamentale di adoperarsi affinché la società diventi più inclusiva e rispettosa."
 </div>
 
-<h3 id="il-nostro-percorso-di-crescita" class="custom-h3">Il nostro percorso di crescita</h3>
+<h3 id="i-genitori-al-nostro-fianco" class="custom-h3"><i class="material-icons">family_restroom</i> I genitori al nostro fianco</h3>
 
-<div class="stats-grid">
-  <div class="stat-card">
-    <span class="stat-number">4</span>
-    <div class="stat-label">Anni di Cammino<br>(dal 2022)</div>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">60</span>
-    <div class="stat-label">Partecipanti<br>al Ritiro 2025</div>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">4</span>
-    <div class="stat-label">Ritiri Regionali<br>Annuali</div>
-  </div>
+Il gruppo **"In Viaggio per Emmaus"** riunisce genitori credenti di persone LGBT+, nati nel maggio 2020. Sono loro che ci hanno sostenuto nei primi passi, guidato con amore, e continuano a camminare con noi.
+
+<div class="quote-box">
+"Quella che mi guidava era la 'verità' di mio figlio. Mi stava chiedendo aiuto per essere accompagnato nello svelare al mondo chi era, un nuovo nascere di fronte alla società ed io dovevo ripartorirlo, lui usciva dall'armadio, non potevo entrarci io o farci restare lui."<br>
+<small>— Anna, fondatrice "In Viaggio per Emmaus"</small>
 </div>
+
+I nostri genitori sono testimoni che:
+
+- L'amore genitoriale è uguale per tutte le figlie e tutti i figli
+- Le nostre vite possono essere vissute in pienezza e santità
+- La Chiesa può e deve accogliere le famiglie nella loro interezza
 
 ---
 
 <h2 id="il-nostro-cammino" class="custom-h2"><i class="material-icons">spa</i> Il nostro cammino</h2>
 
-<h3 id="i-nostri-ritiri-annuali" class="custom-h3">I nostri ritiri annuali</h3>
+<div class="growth-story">
 
-<div class="timeline-item">
-<strong>2022 - "Nell'amore non c'è timore"</strong><br>
-L'affermazione coraggiosa della nostra esistenza e della fecondità del nostro amore.
+<div class="growth-phase">
+  <div class="growth-icon-year">
+    <i class="material-icons">flight_takeoff</i>
+    <span class="year-badge">2022</span>
+  </div>
+  <div class="growth-narrative">
+    <strong>"Nell'amore non c'è timore"</strong>
+    <p>L'affermazione coraggiosa della nostra esistenza e della fecondità del nostro amore. Eravamo un piccolo gruppo di pionieri: giovani e adulti LGBT+, insieme ai loro genitori e a qualche operatore pastorale della Rete. In quei primi weekend aprivamo le porte anche al pubblico, incontrando sacerdoti, credenti del centro gesuita che ci ospitava, curiosi e alleati.</p>
+  </div>
 </div>
 
-<div class="timeline-item">
-<strong>2023 - "Chiamati ad Amare"</strong><br>
-La riscoperta della nostra vocazione cristiana e del nostro carisma.
+<div class="growth-separator">
+  <i class="material-icons">more_vert</i>
 </div>
 
-<div class="timeline-item">
-<strong>2024 - "Profeti di Speranza"</strong><br>
-La consapevolezza della nostra missione profetica, la chiamata a essere luce nel mondo.
+<div class="growth-phase">
+  <div class="growth-icon-year">
+    <i class="material-icons">favorite</i>
+    <span class="year-badge">2023</span>
+  </div>
+  <div class="growth-narrative">
+    <strong>"Chiamati ad Amare"</strong>
+    <p>La riscoperta della nostra vocazione cristiana e del nostro carisma. La nostra comunità inizia a crescere nella diversità: si uniscono a noi le prime persone eterosessuali cristiane, attratte dalla nostra testimonianza di fede vissuta nell'autenticità.</p>
+  </div>
 </div>
 
-<div class="timeline-item">
-<strong>2025 - "Dove mi accogli, io fiorisco"</strong><br>
-Il culmine del percorso: l'esperienza concreta di come la dignità ritrovata permette alla vita di sbocciare.
+<div class="growth-separator">
+  <i class="material-icons">more_vert</i>
 </div>
+
+<div class="growth-phase">
+  <div class="growth-icon-year">
+    <i class="material-icons">lightbulb</i>
+    <span class="year-badge">2024</span>
+  </div>
+  <div class="growth-narrative">
+    <strong>"Profeti di Speranza"</strong>
+    <p>La consapevolezza della nostra missione profetica, la chiamata a essere luce nel mondo. L'apertura e l'inclusività continuano a crescere, consolidando la nostra identità come comunità di testimonianza.</p>
+  </div>
+</div>
+
+<div class="growth-separator">
+  <i class="material-icons">more_vert</i>
+</div>
+
+<div class="growth-phase">
+  <div class="growth-icon-year">
+    <i class="material-icons">local_florist</i>
+    <span class="year-badge">2025</span>
+  </div>
+  <div class="growth-narrative">
+    <strong>"Dove mi accogli, io fiorisco"</strong>
+    <p>Il culmine del percorso: l'esperienza concreta di come la dignità ritrovata permette alla vita di sbocciare. Per la prima volta si uniscono a noi operatori pastorali per la famiglia, attivi e impegnati nelle loro diocesi, che hanno scelto di conoscerci, riconoscerci e crescere insieme nella formazione di una Chiesa che abbraccia <em>"TODOS, TODOS, TODOS"</em> - tutti, tutti, tutti - come ci ricorda Papa Francesco.</p>
+  </div>
+</div>
+
+<div class="growth-separator">
+  <i class="material-icons">more_vert</i>
+</div>
+
+<div class="growth-phase growth-phase-highlight">
+  <div class="growth-icon-year">
+    <i class="material-icons">celebration</i>
+    <span class="year-badge">2026</span>
+  </div>
+  <div class="growth-narrative">
+    <strong>"Non è bene che l'uomo sia solo"</strong>
+    <p>Un momento storico per la nostra comunità: nella Giornata mondiale del dialogo tra  e omosessualità, incontriamo la Conferenza Episcopale Siciliana con tutti i vescovi della Sicilia. Un confronto intenso e commovente dove abbiamo condiviso le nostre esperienze di fede e le sofferenze causate dalle porte chiuse. I vescovi hanno ascoltato, dialogato, si sono commossi con noi. Hanno espresso gratitudine e il desiderio di non fermarsi qui, confermando che "ogni persona deve essere accolta e rispettata nella sua dignità". Auspicano che attraverso la nostra presenza "si possano riaprire porte per quei figli di Dio che vivono con sofferenza la chiusura e l'indifferenza", trasformando le ferite in feritoie di luce.</p>
+  </div>
+</div>
+
+</div>
+
+
+<h3 id="cosa-facciamo" class="custom-h3"><i class="material-icons">star</i> Cosa facciamo</h3>
+
+<div class="mission-grid">
+
+<div class="mission-card">
+  <div class="mission-icon">
+    <i class="material-icons">menu_book</i>
+  </div>
+  <div class="mission-title">Incontri biblici</div>
+  <div class="mission-description">"Date ragione della vostra speranza" - Approfondimenti sulla Parola</div>
+</div>
+
+<div class="mission-card">
+  <div class="mission-icon">
+    <i class="material-icons">lightbulb</i>
+  </div>
+  <div class="mission-title">Veglie di preghiera</div>
+  <div class="mission-description">In maggio, per la Giornata contro l'omofobia e la transfobia</div>
+</div>
+
+<div class="mission-card">
+  <div class="mission-icon">
+    <i class="material-icons">event</i>
+  </div>
+  <div class="mission-title">Ritiri annuali</div>
+  <div class="mission-description">Momenti intensi di preghiera, formazione e fraternità (ogni ottobre)</div>
+</div>
+
+</div>
+
+---
+
+<h3 id="i-nostri-accompagnatori" class="custom-h3"> Chi cammina con noi</h3>
+
+Con profonda gratitudine ringraziamo chi ci accompagna in questo percorso:
+
+- **Don Gero Manganello** - Per il suo ministero instancabile e la sua paternità spirituale
+- **Sandra Letizia** - Teologa, come una madrina di battesimo del nostro gruppo
+- **Padre Pino Piva SJ** - Angelo custode, mediatore del nostro desiderio di servire la Chiesa
+- **Padre Narciso Sunda e Padre Cesare Geroldi** - Per la loro accoglienza e ospitalità
+- **Mons. Luigi Renna** - Per la pastorale inclusiva e vicendevole
+
+---
 
 <h2 id="testimonianze" class="custom-h2"><i class="material-icons">format_quote</i> Testimonianze</h2>
 
 <div class="testimony-card">
-<strong><i class="material-icons" style="vertical-align: middle; font-size: 1.2rem;">person</i> Gabriele, 21 anni</strong>
+<strong><i class="material-icons" style="vertical-align: middle; font-size: 1.2rem;">person</i> G. 21 anni</strong>
 
 <p><em>"Durante il ritiro ho vissuto uno dei momenti più intensi nella messa serale: lì, avvolto da un silenzio pieno di presenza, ho sentito nascere un calore inatteso, come un abbraccio che non veniva solo da qualcuno accanto, ma da un affetto più grande. In quell'istante ho percepito la tenerezza di Dio farsi vicina, concreta."</em></p>
 
@@ -98,7 +192,7 @@ Il culmine del percorso: l'esperienza concreta di come la dignità ritrovata per
 </div>
 
 <div class="testimony-card">
-<strong><i class="material-icons" style="vertical-align: middle; font-size: 1.2rem;">person</i> Dennis, 23 anni</strong>
+<strong><i class="material-icons" style="vertical-align: middle; font-size: 1.2rem;">person</i> D. 23 anni</strong>
 
 <p><em>"Durante l'ultimo ritiro credo di aver vissuto, per la prima volta in 23 anni, il significato dell'essere Chiesa. Credo di aver conosciuto quel volto di una Chiesa che sa (anche) accogliere."</em></p>
 
@@ -117,16 +211,11 @@ Il culmine del percorso: l'esperienza concreta di come la dignità ritrovata per
 
 <h3 id="lievito-di-pace-e-di-speranza" class="custom-h3">Lievito di pace e di speranza</h3>
 
-La nostra comunità ha trovato forte sostegno nell'approvazione del documento di sintesi del **Cammino sinodale delle Chiese in Italia** "*Lievito di pace e di speranza*". In particolare, le proposte dei numeri 30-31 confermano il nostro impegno:
-
-!!! note "Proposte Sinodali (nn. 30-31)"
-    **Accoglienza, accompagnamento e riconoscimento** di tutte le persone che hanno vissuto esperienze di discriminazione all'interno delle comunità ecclesiali.
+La nostra comunità ha trovato forte sostegno nell'approvazione del documento di sintesi del **Cammino sinodale delle Chiese in Italia** "*Lievito di pace e di speranza*". In particolare, le proposte dei numeri 30-31 confermano il nostro impegno.
 
 Il "**riconoscimento**" non è la riammissione di "scomunicati", ma l'affermazione che le persone cattoliche LGBT+ sono **già, a pieno titolo, parte integrante della comunità cristiana**.
 
-<h3 id="un-modello-di-accompagnamento-nuovo" class="custom-h3">Un modello di accompagnamento nuovo</h3>
-
-Non più paternalistico verticale, ma verso la figura dell'**ellisse con due fuochi**: uno spazio in cui chi accompagna e chi è accompagnato crescono in un dialogo e in un ascolto reciproco.
+Un nuovo modello di **accompagnamento**. Non più paternalistico verticale, ma verso la figura dell'**ellisse con due fuochi**: uno spazio in cui chi accompagna e chi è accompagnato crescono in un dialogo e in un ascolto reciproco.
 
 <div class="quote-box">
 "Non si tratta soltanto di riparare gli strappi, ma di costruire insieme il Regno di Dio, di viverlo insieme – non come gruppi separati, ma come un unico popolo."
@@ -134,9 +223,9 @@ Non più paternalistico verticale, ma verso la figura dell'**ellisse con due fuo
 
 ---
 
-<h2 id="la-nostra-missione" class="custom-h2"><i class="material-icons">gps_fixed</i> La nostra missione</h2>
+<h2 id="il-nostro-servizio" class="custom-h2"><i class="material-icons">gps_fixed</i> Il nostro servizio</h2>
 
-<h3 id="essere-visti-accompagnati-riconosciuti" class="custom-h3">Cosa chiediamo alla Chiesa</h3>
+<h3 id="essere-visti-accompagnati-riconosciuti" class="custom-h3">Insieme possiamo</h3>
 
 Desideriamo metterci al servizio come *«servi inutili»* (Lc 17,10), offrendo la nostra esperienza per:
 
@@ -177,121 +266,28 @@ Desideriamo metterci al servizio come *«servi inutili»* (Lc 17,10), offrendo l
 </div>
 
 <div class="quote-box" style="margin-top: 3rem;">
-<strong>Il Nostro Impegno:</strong> Non chiediamo scorciatoie, né privilegi: chiediamo <strong>accompagnamento, discernimento e corresponsabilità</strong>.
+Non chiediamo scorciatoie, né privilegi: chiediamo <strong>riconoscimento, accompagnamento, discernimento e corresponsabilità</strong>.
 </div>
 
 ---
 
-<h2 id="in-viaggio-per-emmaus" class="custom-h2"><i class="material-icons">hiking</i> In viaggio per Emmaus</h2>
-
-<h3 id="i-genitori-al-nostro-fianco" class="custom-h3"><i class="material-icons">family_restroom</i> I genitori al nostro fianco</h3>
-
-Il gruppo **"In Viaggio per Emmaus"** riunisce genitori credenti di persone LGBT+, nati nel maggio 2020. Sono loro che ci hanno sostenuto nei primi passi, guidato con amore, e continuano a camminare con noi.
-
-<div class="quote-box">
-"Quella che mi guidava era la 'verità' di mio figlio. Mi stava chiedendo aiuto per essere accompagnato nello svelare al mondo chi era, un nuovo nascere di fronte alla società ed io dovevo ripartorirlo, lui usciva dall'armadio, non potevo entrarci io o farci restare lui."<br>
-<small>— Anna, fondatrice "In Viaggio per Emmaus"</small>
-</div>
-
-I nostri genitori sono testimoni che:
-
-- L'amore genitoriale è uguale per tutti i figli
-- Le nostre vite possono essere vissute in pienezza e santità
-- La Chiesa può e deve accogliere le famiglie nella loro interezza
-
----
-
-<h2 id="i-nostri-accompagnatori" class="custom-h2"><i class="material-icons">accessibility_new</i> I nostri accompagnatori</h2>
-
-<h3 id="chi-cammina-con-noi" class="custom-h3">Chi cammina con noi</h3>
-
-Con profonda gratitudine ringraziamo chi ci accompagna in questo percorso:
-
-- **Don Gero Manganello** - Per il suo ministero instancabile e la sua paternità spirituale
-- **Sandra Letizia** - Teologa, come una madrina di battesimo del nostro gruppo
-- **Padre Pino Piva SJ** - Angelo custode, mediatore del nostro desiderio di servire la Chiesa
-- **Padre Narciso Sunda e Padre Cesare Geroldi** - Per la loro accoglienza e ospitalità
-- **Mons. Luigi Renna** - Per la pastorale inclusiva e vicendevole
-- **Mons. Alessandro Damiano** - Per l'incontro formativo e la veglia di preghiera ad Agrigento
-
----
-
-<h2 id="cosa-facciamo" class="custom-h2"><i class="material-icons">star</i> Cosa facciamo</h2>
-
-<div class="mission-grid">
-
-<div class="mission-card">
-  <div class="mission-icon">
-    <i class="material-icons">event</i>
-  </div>
-  <div class="mission-title">Ritiri annuali</div>
-  <div class="mission-description">Momenti intensi di preghiera, formazione e fraternità (ogni ottobre)</div>
-</div>
-
-<div class="mission-card">
-  <div class="mission-icon">
-    <i class="material-icons">lightbulb</i>
-  </div>
-  <div class="mission-title">Veglie di preghiera</div>
-  <div class="mission-description">In maggio, per la Giornata contro l'omofobia e la transfobia</div>
-</div>
-
-<div class="mission-card">
-  <div class="mission-icon">
-    <i class="material-icons">menu_book</i>
-  </div>
-  <div class="mission-title">Incontri biblici</div>
-  <div class="mission-description">"Date ragione della vostra speranza" - Approfondimenti sulla Parola</div>
-</div>
-
-<div class="mission-card">
-  <div class="mission-icon">
-    <i class="material-icons">groups</i>
-  </div>
-  <div class="mission-title">Comunità online</div>
-  <div class="mission-description">Gruppo "In Viaggio per Emmaus" per genitori e figli credenti</div>
-</div>
-
-<div class="mission-card">
-  <div class="mission-icon">
-    <i class="material-icons">school</i>
-  </div>
-  <div class="mission-title">Formazione</div>
-  <div class="mission-description">Incontri con operatori pastorali e comunità diocesane</div>
-</div>
-
-<div class="mission-card">
-  <div class="mission-icon">
-    <i class="material-icons">church</i>
-  </div>
-  <div class="mission-title">Dialogo ecclesiale</div>
-  <div class="mission-description">Collaborazione con diocesi e movimenti ecclesiali</div>
-</div>
-
-</div>
-
----
-
-<h2 id="contatti" class="custom-h2"><i class="material-icons">mail</i> Contatti</h2>
+<h2 id="contatti" class="custom-h2"> Contatti</h2>
 
 <div class="grid" markdown>
 
 :fontawesome-solid-envelope: **Email**  
-[info@cristianilgbtsicilia.org](mailto:info@cristianilgbtsicilia.org)
+[cristianilgbtsicilia@gmail.com](mailto:cristianilgbtsicilia@gmail.com)
 { .card }
 
 :fontawesome-brands-facebook: **Facebook**  
-Seguici per aggiornamenti e iniziative
+[cristianilgbtsicilia](https://www.facebook.com/cristianilgbtsicilia)
 { .card }
 
 :fontawesome-brands-instagram: **Instagram**  
-Condividiamo momenti della nostra comunità
+[cristianilgbtsicilia](https://www.instagram.com/cristianilgbtsicilia)
 { .card }
 
 </div>
-
-!!! info "Riservatezza garantita"
-    Rispettiamo la privacy di ogni persona. Tutte le comunicazioni sono trattate con la massima riservatezza.
 
 ---
 
@@ -299,10 +295,10 @@ Condividiamo momenti della nostra comunità
 
 <div class="quote-box">
 
-*"Non c'è più giudeo né greco, non c'è più schiavo né libero,  
-non c'è più uomo né donna, poiché tutti voi siete uno in Cristo Gesù."*
+"Non c'è più giudeo né greco, non c'è più schiavo né libero,  
+non c'è più uomo né donna, poiché tutti voi siete uno in Cristo Gesù."
 
-**Galati 3:28**
+(Galati 3:28)
 
 </div>
 
