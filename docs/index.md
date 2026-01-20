@@ -4,7 +4,7 @@ hide:
   - navigation
   - toc
 ---
-<h2 id="chi-siamo" class="custom-h2"><i class="material-icons">people</i> Chi siamo</h2>
+<h2 id="chi-siamo" class="custom-h2"> Chi siamo</h2>
 
 Siamo **giovani e adulti delle diocesi siciliane**. Alcuni di noi sono impegnati nelle parrocchie, nei gruppi giovanili, nell'Azione Cattolica, nello scoutismo, nel catechismo, nei cori liturgici. Siamo persone inserite nella vita ecclesiale, che amano la Chiesa e continuano a sentirla come casa.
 
@@ -31,7 +31,7 @@ I nostri genitori sono testimoni che:
 
 ---
 
-<h2 id="il-nostro-cammino" class="custom-h2"><i class="material-icons">spa</i> Il nostro cammino</h2>
+<h2 id="il-nostro-cammino" class="custom-h2"> Il nostro cammino</h2>
 
 <div class="growth-story">
 
@@ -153,7 +153,7 @@ Con profonda gratitudine ringraziamo chi ci accompagna in questo percorso:
 
 ---
 
-<h2 id="testimonianze" class="custom-h2"><i class="material-icons">format_quote</i> Testimonianze</h2>
+<h2 id="testimonianze" class="custom-h2"> Testimonianze</h2>
 
 <div class="testimony-card">
 <strong><i class="material-icons" style="vertical-align: middle; font-size: 1.2rem;">person</i> G. 21 anni</strong>
@@ -187,10 +187,7 @@ Con profonda gratitudine ringraziamo chi ci accompagna in questo percorso:
 
 ---
 
-<h2 id="il-cammino-sinodale" class="custom-h2"><i class="material-icons">favorite</i> Il cammino sinodale</h2>
-
-<h3 id="lievito-di-pace-e-di-speranza" class="custom-h3">Lievito di pace e di speranza</h3>
-
+<h2 id="il-cammino-sinodale" class="custom-h2"> Il cammino sinodale</h2>
 La nostra comunità ha trovato forte sostegno nell'approvazione del documento di sintesi del **Cammino sinodale delle Chiese in Italia** "*Lievito di pace e di speranza*". In particolare, le proposte dei numeri 30-31 confermano il nostro impegno.
 
 Il "**riconoscimento**" non è la riammissione di "scomunicati", ma l'affermazione che le persone cattoliche LGBT+ sono **già, a pieno titolo, parte integrante della comunità cristiana**.
@@ -203,9 +200,7 @@ Un nuovo modello di **accompagnamento**. Non più paternalistico verticale, ma v
 
 ---
 
-<h2 id="il-nostro-servizio" class="custom-h2"><i class="material-icons">gps_fixed</i> Il nostro servizio</h2>
-
-<h3 id="essere-visti-accompagnati-riconosciuti" class="custom-h3">Insieme possiamo</h3>
+<h2 id="il-nostro-servizio" class="custom-h2"> Il nostro servizio</h2>
 
 Desideriamo metterci al servizio come *«servi inutili»* (Lc 17,10), offrendo la nostra esperienza per:
 
