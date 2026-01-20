@@ -46,10 +46,10 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/
+      link: https://www.facebook.com/cristianilgbtsicilia
       name: Seguici su Facebook
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/
+      link: https://www.instagram.com/cristianilgbtsicilia
       name: Seguici su Instagram
     - icon: fontawesome/solid/envelope
       link: mailto:info@cristianilgbtsicilia.org
