@@ -102,7 +102,7 @@ I nostri genitori sono testimoni che:
   </div>
   <div class="growth-narrative">
     <strong>"Non è bene che l'uomo sia solo"</strong>
-    <p>Un momento storico per la nostra comunità: nella Giornata mondiale del dialogo tra  e omosessualità, incontriamo la Conferenza Episcopale Siciliana con tutti i vescovi della Sicilia. Un confronto intenso e commovente dove abbiamo condiviso le nostre esperienze di fede e le sofferenze causate dalle porte chiuse. I vescovi hanno ascoltato, dialogato, si sono commossi con noi. Hanno espresso gratitudine e il desiderio di non fermarsi qui, confermando che "ogni persona deve essere accolta e rispettata nella sua dignità". Auspicano che attraverso la nostra presenza "si possano riaprire porte per quei figli di Dio che vivono con sofferenza la chiusura e l'indifferenza", trasformando le ferite in feritoie di luce.</p>
+    <p>Un momento storico per la nostra comunità: nella Giornata mondiale del dialogo tra religione e omosessualità, incontriamo la Conferenza Episcopale Siciliana con tutti i vescovi della Sicilia. Un confronto intenso e commovente dove abbiamo condiviso le nostre esperienze di fede e le sofferenze causate dalle porte chiuse. I vescovi hanno ascoltato, dialogato, si sono commossi con noi. Hanno espresso gratitudine e il desiderio di non fermarsi qui, confermando che "ogni persona deve essere accolta e rispettata nella sua dignità". Auspicano che attraverso la nostra presenza "si possano riaprire porte per quei figli di Dio che vivono con sofferenza la chiusura e l'indifferenza", trasformando le ferite in feritoie di luce.</p>
   </div>
 </div>
 
