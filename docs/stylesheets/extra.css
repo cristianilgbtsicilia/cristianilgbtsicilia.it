@@ -320,6 +320,15 @@ h2.custom-h2 {
   border-bottom: none;
 }
 
+/* Reuse hero gradient on section titles */
+.section-title,
+h2.custom-h2 {
+  background: linear-gradient(90deg, #6a3fc9 0%, #d23a8a 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
 h2.custom-h2 i {
   vertical-align: middle;
   margin-right: 0.5rem;
@@ -337,6 +346,22 @@ h3.custom-h3 i {
   vertical-align: middle;
   margin-right: 0.5rem;
   font-size: 1.6rem;
+}
+
+/* Accessible heading colors in dark mode */
+[data-md-color-scheme="slate"] .section-title,
+[data-md-color-scheme="slate"] h2.custom-h2,
+[data-md-color-scheme="slate"] h3.custom-h3 {
+  background: linear-gradient(90deg, #c8a8ff 0%, #ff9bd4 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+}
+
+[data-md-color-scheme="slate"] h2.custom-h2 i,
+[data-md-color-scheme="slate"] h3.custom-h3 i {
+  color: var(--md-accent-fg-color);
 }
 
 /* Mission cards */
@@ -360,20 +385,21 @@ h3.custom-h3 i {
 }
 
 .mission-icon {
-  width: 60px;
-  height: 60px;
-  background: linear-gradient(135deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
-  border-radius: 12px;
+  width: 56px;
+  height: 56px;
+  background: transparent;
+  border-radius: 999px;
+  border: 1.5px solid color-mix(in srgb, var(--md-primary-fg-color) 55%, transparent);
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0 auto 1rem;
-  box-shadow: 0 4px 10px rgba(103, 58, 183, 0.3);
+  box-shadow: none;
 }
 
 .mission-icon i {
-  font-size: 2rem;
-  color: white;
+  font-size: 1.9rem;
+  color: var(--md-primary-fg-color);
 }
 
 .mission-title {
@@ -528,6 +554,17 @@ h3.custom-h3 i {
   font-size: inherit;
   display: block;
   margin-bottom: 0.5rem;
+}
+
+/* Accessible card titles in dark mode */
+[data-md-color-scheme="slate"] .mission-title,
+[data-md-color-scheme="slate"] .growth-year,
+[data-md-color-scheme="slate"] .growth-narrative strong {
+  color: var(--md-default-fg-color);
+}
+
+[data-md-color-scheme="slate"] .growth-participants {
+  color: #ffb3dc;
 }
 
 .growth-separator {
