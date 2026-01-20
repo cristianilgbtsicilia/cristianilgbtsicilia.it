@@ -1,0 +1,9 @@
+authors:
+  direttivo:
+    name: Direttivo
+    description: Team organizzativo della comunità
+    avatar: assets/favicon.png
+  squidfunk:
+    name: Martin Donath
+    description: Creator
+    avatar: https://github.com/squidfunk.png

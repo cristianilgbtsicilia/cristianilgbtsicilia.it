@@ -1,5 +1,6 @@
 site_name: Cristiani LGBT+ Sicilia
 site_description: Comunità di fede inclusiva e accogliente in Sicilia
+site_url: https://cristianilgbtsicilia.it
 
 theme:
   name: material
@@ -58,3 +59,8 @@ extra:
 extra_css:
   - stylesheets/extra.css
   - https://fonts.googleapis.com/icon?family=Material+Icons
+
+plugins:
+  - search
+  - blog:
+      blog_dir: news
