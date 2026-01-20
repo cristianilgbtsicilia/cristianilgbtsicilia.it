@@ -305,6 +305,62 @@
   box-shadow: 0 0 0 3px rgba(103, 58, 183, 0.2);
 }
 
+/* Mobile optimizations for timeline and testimonies */
+@media screen and (max-width: 48em) {
+  .testimony-card,
+  .quote-box {
+    padding: 1.25rem 1.25rem 1.25rem 1.5rem;
+  }
+
+  .growth-phase {
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 1rem;
+  }
+
+  .growth-icon-year {
+    flex-direction: row;
+    gap: 0.75rem;
+    min-width: auto;
+  }
+
+  .growth-icon-year i {
+    font-size: 2rem;
+  }
+
+  .growth-narrative strong {
+    margin-bottom: 0.25rem;
+  }
+
+  .timeline-item {
+    padding: 1rem 0 1rem 1.25rem;
+    margin-left: 0.5rem;
+  }
+
+  .timeline-item::before {
+    left: -8px;
+    top: 1.5rem;
+    width: 12px;
+    height: 12px;
+  }
+
+  .stats-grid,
+  .mission-grid,
+  .growth-grid {
+    justify-items: center;
+  }
+
+  .stat-card,
+  .mission-card,
+  .growth-card,
+  .testimony-card {
+    width: 100%;
+    max-width: 28rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 /* Section titles */
 .section-title {
   font-size: 2.5rem;
