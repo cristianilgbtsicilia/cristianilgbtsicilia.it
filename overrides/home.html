@@ -25,9 +25,11 @@
       grid-column: 1 / -1 !important;
     }
 
-    .md-sidebar--primary,
-    .md-sidebar--secondary {
-      display: none !important;
+    @media screen and (min-width: 60em) {
+      .md-sidebar--primary,
+      .md-sidebar--secondary {
+        display: none !important;
+      }
     }
   </style>
 {% endblock %}
