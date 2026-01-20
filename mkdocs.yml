@@ -5,6 +5,9 @@ theme:
   name: material
   custom_dir: overrides
   language: it
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
     # Palette toggle for light mode
     - scheme: default
