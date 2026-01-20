@@ -79,6 +79,13 @@
   margin-bottom: 1rem;
 }
 
+.hero-icon-svg {
+  display: block;
+  width: 110px;
+  height: 80px;
+  margin: 0 auto;
+}
+
 .hero-icon i {
   font-size: 2.6rem;
   color: var(--md-accent-fg-color);
