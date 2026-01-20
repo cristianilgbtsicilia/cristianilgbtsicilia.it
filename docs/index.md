@@ -1,29 +1,9 @@
 ---
+template: home.html
 hide:
   - navigation
   - toc
 ---
-
-<div class="hero-section">
-  <div class="hero-content">
-    <div class="hero-icon">
-      <i class="material-icons">favorite</i>
-    </div>
-    <h1 class="hero-title">Cristiani LGBT+ Sicilia</h1>
-    
-    <p class="hero-subtitle">
-      Una comunità di fede che cammina insieme<br>
-      <strong>Amati da Dio, così come siamo</strong>
-    </p>
-
-    <p>
-      <a href="#chi-siamo" class="md-button md-button--primary">Chi siamo</a>
-      <a href="#il-nostro-cammino" class="md-button">Il nostro cammino</a>
-      <a href="#testimonianze" class="md-button">Testimonianze</a>
-    </p>
-  </div>
-</div>
-
 <h2 id="chi-siamo" class="custom-h2"><i class="material-icons">people</i> Chi siamo</h2>
 
 Siamo **giovani e adulti delle diocesi siciliane**. Alcuni di noi sono impegnati nelle parrocchie, nei gruppi giovanili, nell'Azione Cattolica, nello scoutismo, nel catechismo, nei cori liturgici. Siamo persone inserite nella vita ecclesiale, che amano la Chiesa e continuano a sentirla come casa.

@@ -5,7 +5,19 @@
 /* Reset dei container Material for MkDocs per permettere full-width */
 .md-content__inner {
   max-width: none !important;
-  overflow-x: clip !important;
+  overflow-x: visible !important;
+}
+
+/* Home template: rimuove padding superiore e permette al hero di attaccarsi alle tabs */
+.home-md-content {
+  margin-top: -1.75rem;
+  padding-top: 0;
+}
+
+.home-md-content__inner {
+  padding-top: 0;
+  margin-top: 0;
+  max-width: none;
 }
 
 /* Hero: sfondo full-width del viewport */
@@ -14,9 +26,10 @@
   width: 100vw;
   position: relative;
   left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  transform: translateX(-50%);
+  margin-left: 0;
+  margin-right: 0;
+  box-sizing: border-box;
   
   /* Spaziatura verticale */
   margin-top: 0;
@@ -28,6 +41,13 @@
     linear-gradient(135deg, rgba(103, 58, 183, 0.12) 0%, rgba(233, 30, 99, 0.15) 100%),
     radial-gradient(circle at top right, rgba(233, 30, 99, 0.15) 0%, transparent 60%),
     radial-gradient(circle at bottom left, rgba(103, 58, 183, 0.15) 0%, transparent 60%);
+}
+
+/* Contenuto home: torna al layout centrato dopo l'hero */
+.home-main-content {
+  max-width: 61rem;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
 }
 
 /* Contenuto hero: centrato con max-width */
@@ -118,6 +138,11 @@
 /* Layout globale */
 .md-content {
   max-width: 1200px;
+}
+
+/* Home: consentire full width sul contenitore principale */
+.home-md-content.md-content {
+  max-width: none !important;
 }
 
 /* Quote box */

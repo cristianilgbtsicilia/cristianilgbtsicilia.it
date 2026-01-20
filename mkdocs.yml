@@ -3,6 +3,7 @@ site_description: Comunità di fede inclusiva e accogliente in Sicilia
 
 theme:
   name: material
+  custom_dir: overrides
   language: it
   palette:
     # Palette toggle for light mode
